@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32a3660c.chunk.css",
+    "main.js": "/static/js/main.4e4c82d1.chunk.js",
+    "main.js.map": "/static/js/main.4e4c82d1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.55a8e9b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.55a8e9b7.js.map",
+    "static/js/2.36ac7f35.chunk.js": "/static/js/2.36ac7f35.chunk.js",
+    "static/js/2.36ac7f35.chunk.js.map": "/static/js/2.36ac7f35.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.32a3660c.chunk.css.map": "/static/css/main.32a3660c.chunk.css.map",
+    "static/js/2.36ac7f35.chunk.js.LICENSE.txt": "/static/js/2.36ac7f35.chunk.js.LICENSE.txt",
+    "static/media/1.bced7d03.png": "/static/media/1.bced7d03.png",
+    "static/media/5.569ac045.png": "/static/media/5.569ac045.png",
+    "static/media/b1.eadd1467.png": "/static/media/b1.eadd1467.png",
+    "static/media/b10.37ddb12d.png": "/static/media/b10.37ddb12d.png",
+    "static/media/b2.6c7c6917.png": "/static/media/b2.6c7c6917.png",
+    "static/media/b3.024f793b.png": "/static/media/b3.024f793b.png",
+    "static/media/b4.93be7efb.png": "/static/media/b4.93be7efb.png",
+    "static/media/b5.c393607a.png": "/static/media/b5.c393607a.png",
+    "static/media/b6.97931177.png": "/static/media/b6.97931177.png",
+    "static/media/b7.73d6ed3e.png": "/static/media/b7.73d6ed3e.png",
+    "static/media/b8.15b5f0c4.png": "/static/media/b8.15b5f0c4.png",
+    "static/media/b9.ec6c5a9e.png": "/static/media/b9.ec6c5a9e.png",
+    "static/media/background0.2c73cfc3.jpg": "/static/media/background0.2c73cfc3.jpg",
+    "static/media/Footer.css": "/static/media/c9.9e10f693.png",
+    "static/media/CardHolder.css": "/static/media/derevo-minimalizm-fon-wood-background.921bfbe8.jpeg",
+    "static/media/AboutUs.css": "/static/media/novyi-god-rodzhestvo-kamin-noski-podarki-teplo-uiut-prazdnik.5abc934e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55a8e9b7.js",
+    "static/js/2.36ac7f35.chunk.js",
+    "static/css/main.32a3660c.chunk.css",
+    "static/js/main.4e4c82d1.chunk.js"
+  ]
+}
